@@ -11,7 +11,7 @@ import java.util.Scanner;
  * @author amado
  */
 public class Entrada {
-//Amadou tonto
+//Amadou queso
     private Scanner entrada;
 
     public Entrada() {
